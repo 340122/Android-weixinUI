@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="block">#000000</color>
+    <color name="kuohao">#C8C7CD</color>
+    <color name="body">#F3F3F2</color>
+    <color name="biankuangxian">#E2E2E2</color>
+    <color name="textcol">#60739A</color>
+    <color name="load_bg">#9CE6C0</color>
+    <color name="load_text">#D6F6E5</color>
+    <color name="text12">#64769C</color>
+    <color name="xiegang">#B6B6B6</color>
+    <color name="sousuo">#919193</color>
+    <color name="top">#EDEDED</color>
+
+</resources>
